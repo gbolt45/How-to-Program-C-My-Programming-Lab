@@ -1,0 +1,5 @@
+if(age >= 65){
+    seniorCitizens = seniorCitizens + 1;
+}else{
+    nonSeniors = nonSeniors + 1;
+}

@@ -1,0 +1,5 @@
+if(soldYesterday > soldToday){
+    salesTrend = -1;
+}else{
+    salesTrend = 1;
+}

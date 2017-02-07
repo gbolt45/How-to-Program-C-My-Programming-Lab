@@ -1,0 +1,3 @@
+if(outsideTemperature > 90){
+    shelfLife = shelfLife - 4;
+}

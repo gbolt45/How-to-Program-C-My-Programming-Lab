@@ -1,0 +1,1 @@
+net_pay = gross_pay - tax;

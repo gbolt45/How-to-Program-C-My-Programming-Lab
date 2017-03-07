@@ -1,0 +1,8 @@
+void printAttitude(int a)  
+{ if(a == 1) 
+{ printf("disagree\n");} 
+else if(a == 2) 
+{ printf("no opinion\n"); } 
+else if (a==3)
+{ printf("agree\n"); } 
+}

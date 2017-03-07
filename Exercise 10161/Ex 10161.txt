@@ -1,0 +1,9 @@
+double powerTo(double x, int y)
+{
+if( y < 0)
+     return 0;
+else
+       {
+       return pow(x, y);
+       }
+}
